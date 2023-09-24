@@ -3,12 +3,17 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E3533)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# How to drag XtraGrid cell value in the same manner as the one MS Excel provides
+
+# WinForms Data Grid - Move cell contents using drag and drop (Microsoft Excel inspired behavior)
+
+This example handle `MouseDown`, `MouseMove`, and `MouseUp` events to allow users to move cell velues using drag and drop:
+
+* Select a data cell that you want to move.
+* Point to the cell's bottom border.
+* When the pointer becomes a move pointer, drag the cell to another location.
 
 
-<p>This example demonstrates how to provide the capability to drag and drop cell values in the same manner as the one MS Excel provides. In this example, when mouse cursor is above the selected cell bottom edge, <a href="http://msdn.microsoft.com/en-US/library/system.windows.forms.cursors.sizeall(v=VS.80).aspx"><u>Cursors.SizeAll</u></a> is shown instead of the default cursor. At this moment you can drag the cell value to another cell. After the dropping, source cell value will be copied to the current cell, and source cell value will be cleared. </p><p><strong>See also</strong><strong> </strong><a href="https://www.devexpress.com/Support/Center/p/E2621">How to copy a cell's value to other cells by dragging its right bottom edge</a><strong><br />
-</strong></p>
+## See Also
 
-<br/>
-
+* [WinForms Data Grid - Copy a cell's value to other cells by dragging its right bottom edge](https://supportcenter.devexpress.com/ticket/details/e2621/winforms-data-grid-copy-a-cell-s-value-to-other-cells-by-dragging-its-right-bottom-edge)
 
