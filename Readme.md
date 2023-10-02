@@ -4,9 +4,9 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms Data Grid - Move cell contents using drag and drop (Microsoft Excel inspired behavior)
+# WinForms Data Grid - Move cell contents using drag and drop (Microsoft Excel-inspired behavior)
 
-This example handle `MouseDown`, `MouseMove`, and `MouseUp` events to allow users to move cell velues using drag and drop:
+This example handles `MouseDown`, `MouseMove`, and `MouseUp` events to allow users to move cell values using drag and drop:
 
 * Select a data cell that you want to move.
 * Point to the cell's bottom border.
