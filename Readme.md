@@ -10,7 +10,7 @@ This example handles `MouseDown`, `MouseMove`, and `MouseUp` events to allow use
 
 * Select a data cell that you want to move.
 * Point to the cell's bottom border.
-* When the pointer becomes a move pointer, drag the cell to another location.
+* When the pointer becomes a multi-arrow move pointer, drag the cell to another location.
 
 
 ## See Also
