@@ -19,7 +19,7 @@ This example handles `MouseDown`, `MouseMove`, and `MouseUp` events to allow use
 * [WinForms Data Grid - Copy a cell's value to other cells by dragging its right bottom edge](https://supportcenter.devexpress.com/ticket/details/e2621/winforms-data-grid-copy-a-cell-s-value-to-other-cells-by-dragging-its-right-bottom-edge)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-move-cell-using-drag-drop&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-move-cell-using-drag-drop&~~~was_helpful=no)
 
